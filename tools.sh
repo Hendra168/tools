@@ -18,11 +18,13 @@ echo
 sleep 1
 echo $green" Menu :"
 echo
-echo $green" [1] DDOS NO TELEPON"
+echo $green" [1]  NO TELEPON"
 echo
-echo $green" [2] DDOS IP ADDRES"
+echo $green" [2]  IP ADDRES"
 echo
-echo $green" [3] DDOS Link Website"
+echo $green" [3]  Link Website"
+echo
+echo $green" [4] whatsApp hendra"
 echo
 echo $green" [0] Keluar Tools?"
 sleep 1
@@ -166,6 +168,17 @@ echo
 echo $green"ping port attack to $link set $js"
 echo
 echo $green"Done.... "
+fi
+
+if [ $bro = 4 ] || [ $bro = 4 ]
+then
+echo $green
+figlet "Hendra"
+sleep 1
+echo $green"https://wa.me/6282147078449
+sleep 1
+echo $green"pake kata sopan"
+sleep 1
 fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
