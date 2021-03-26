@@ -176,9 +176,9 @@ echo $green
 figlet "Hendra"
 sleep 1
 echo $green"https://wa.me/6282147078449
-sleep 1
-echo $green"pake kata sopan"
-sleep 1
+echo
+echo $green"pake kata sopan....."
+echo
 fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
