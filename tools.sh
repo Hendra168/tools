@@ -7,12 +7,12 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 echo $green
-figlet "ddos"
+figlet "Hendra"
 echo
 echo $green" +----------------------+"
-echo $green" + Author : Mr D0nx     +"
-echo $green" + Team   : IndoDarknet +"
-echo $green" + IG     : Moh.dito_   +"
+echo $green" + Author : HENDRA      +"
+echo $green" + Team   : HENDRA BOT  +"
+echo $green" + IG     : HENDRA.     +"
 echo $green" +----------------------+"
 echo
 sleep 1
@@ -35,9 +35,9 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo $green
-figlet "DDOS"
+figlet "HENDRA"
 sleep 1
-echo $green"By MrD0nx"
+echo $green"By Hendra"
 read -p "Masukan No HP : " telp
 read -p "Masukan Jumlah: " jmlh
 sleep 1
@@ -76,9 +76,9 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo $green
-figlet "DDOS"
+figlet "Hendra"
 sleep 1
-echo $green"By MrD0nx"
+echo $green"By Hendra"
 echo
 sleep 1
 read -p "Masukan Ip : " ip
@@ -126,8 +126,8 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo $green
-figlet "DDOS"
-echo $green"By MrD0nx"
+figlet "Hendra"
+echo $green"By Hendra"
 sleep 1
 read -p "Masukan Link : " link
 read -p "Masukan Jumlah/detik : " js
@@ -171,10 +171,10 @@ fi
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
 echo $green
-figlet "MrD0nx"
+figlet "Hendra"
 sleep 1
 echo $green"Terimakasih Telah Menggunakan Tools ;)"
 sleep 1
-echo $green"Tools by MrD0nx"
+echo $green"Tools by Hendra"
 sleep 1
 exit
